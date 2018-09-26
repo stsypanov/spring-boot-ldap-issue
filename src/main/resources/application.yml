@@ -1,0 +1,13 @@
+spring:
+  main:
+    banner-mode: "off"
+  ldap:
+    urls: ""
+    base: ""
+    username: ""
+    password: ""
+  jmx:
+    enabled: false
+logging:
+  level:
+    root: error
